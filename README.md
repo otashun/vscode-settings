@@ -1,5 +1,5 @@
 # vscode-settings
-
+Manage VScode settings by GitHub.
 ## Getting started
 ```
 git clone git@github.com:otashun/vscode-settings.git
