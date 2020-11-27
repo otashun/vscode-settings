@@ -1,6 +1,10 @@
 # vscode-settings
-## settings.json
+## Files
+### settings.json
 https://code.visualstudio.com/docs/getstarted/settings
 
-## extensions.txt
+### extensions.txt
 https://code.visualstudio.com/docs/editor/extension-gallery
+
+## License
+MIT
