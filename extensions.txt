@@ -1,0 +1,6 @@
+coenraads.bracket-pair-colorizer-2-0.2.0
+dbaeumer.vscode-eslint-2.1.13
+golang.go-0.18.1
+ms-azuretools.vscode-docker-1.8.1
+oderwat.indent-rainbow-7.4.0
+stylelint.vscode-stylelint-0.85.0

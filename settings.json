@@ -1,0 +1,16 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false,
+    "editor.formatOnSave": false,
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": true,
+    "editor.wordWrap": "on",
+    "eslint.packageManager": "npm",
+    "window.zoomLevel": 1,
+    "workbench.editor.enablePreview": false,
+    "workbench.startupEditor": "none"
+}
