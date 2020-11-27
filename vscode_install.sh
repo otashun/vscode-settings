@@ -1,7 +1,16 @@
 #!/bin/bash
 
 SCRIPT_DIR=$(cd $(dirname $0) && pwd)
-VSCODE_SETTING_DIR=~/Library/Application\ Support/Code/User
+
+# See https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations
+if [ `uname` == 'Darwin' ]; then
+ VSCODE_SETTING_DIR=$HOME/Library/Application\ Support/Code/User/
+elif [ `uname` == 'Linux' ]; then
+ VSCODE_SETTING_DIR=$HOME/.config/Code/User/
+else
+ echo "Your platform ($(uname -a)) is not supported."
+ exit 1
+fi
 
 rm "$VSCODE_SETTING_DIR/settings.json"
 ln -s "$SCRIPT_DIR/settings.json" "${VSCODE_SETTING_DIR}/settings.json"
