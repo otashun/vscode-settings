@@ -10,6 +10,9 @@
     "editor.renderControlCharacters": true,
     "editor.wordWrap": "on",
     "eslint.packageManager": "npm",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
     "window.zoomLevel": 1,
     "workbench.editor.enablePreview": false,
     "workbench.startupEditor": "none"
