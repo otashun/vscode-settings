@@ -8,8 +8,8 @@ cd vscode-settings
 ```
 
 ## Reference
-[https://code.visualstudio.com/docs/getstarted/settings](https://code.visualstudio.com/docs/getstarted/settings)
-[https://code.visualstudio.com/docs/editor/extension-gallery](https://code.visualstudio.com/docs/editor/extension-gallery)
+- https://code.visualstudio.com/docs/getstarted/settings
+- https://code.visualstudio.com/docs/editor/extension-gallery
 
 ## License
 MIT
