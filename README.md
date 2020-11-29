@@ -8,7 +8,7 @@ MacOS, Linux
 ```
 git clone git@github.com:otashun/vscode-settings.git
 cd vscode-settings
-./vscode_install.sh
+./install.sh
 ```
 
 ## Reference
