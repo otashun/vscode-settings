@@ -11,6 +11,19 @@ cd vscode-settings
 ./install.sh
 ```
 
+## Usage
+### install
+```
+cd vscode-settings
+./install.sh
+```
+
+### reflect local extensions
+```
+cd vscode-settings
+./reflect_local_extensions.sh
+```
+
 ## Reference
 - https://code.visualstudio.com/docs/getstarted/settings
 - https://code.visualstudio.com/docs/editor/extension-gallery
